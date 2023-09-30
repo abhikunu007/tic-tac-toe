@@ -8,12 +8,13 @@ Tic Tac Toe is a two-player game in which the objective is to take turns and mar
 - [@Abhishek Kumar](https://www.github.com/abhikunu007)
 
 ## Github Repo 
-- (https://github.com/abhikunu007/tic-tac-toe)
+- https://github.com/abhikunu007/tic-tac-toe
 
 ## Deployment
 
 To see this project live click below
-https://abhikunu007.github.io/tic-tac-toe/
+
+- https://abhikunu007.github.io/tic-tac-toe/
 
 
 ## Support
