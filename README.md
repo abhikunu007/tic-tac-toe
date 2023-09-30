@@ -1,3 +1,34 @@
+
+# Tic Tac Toe
+
+Tic Tac Toe is a two-player game in which the objective is to take turns and mark the correct spaces in a 3x3 (or larger) grid. Think on your feet but also be careful, as the first player who places three of their marks in a horizontal, vertical or diagonal row wins the game! 
+
+## Author
+
+- [@Abhishek Kumar](https://www.github.com/abhikunu007)
+
+## Github Repo 
+- (https://github.com/abhikunu007/tic-tac-toe)
+
+## Deployment
+
+To see this project live click below
+https://abhikunu007.github.io/tic-tac-toe/
+
+
+## Support
+
+For support, email abhishekkumaras007@gmail.com
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at abhishekkumaras007@gmail.com
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
